@@ -1,6 +1,6 @@
 # FDE Codebase Scout
 
-AI-powered codebase analysis tool for Forward Deployed Engineers. Built for the Tenex.co FDE role interview.
+AI-powered codebase analysis tool for Forward Deployed Engineers.
 
 ## Features
 
